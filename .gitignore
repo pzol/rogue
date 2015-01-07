@@ -1,0 +1,5 @@
+libcotd
+target
+libcotd/
+test/
+Cargo.lock
