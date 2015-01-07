@@ -3,7 +3,10 @@ name = "rogue"
 version = "0.0.1"
 authors = ["Piotr Zolnierek <pzolnierek@gmail.com>"]
 description = "algorithms for fov, los, etc for building a roguelike"
-license ="MIT"
+license = "MIT"
+repository = "git@github.com:pzol/rogue.git"
+homepage = "http://github.com/pzol/rogue"
+documentation = "http://github.com/pzol/rogue"
 
 [lib]
 name = "rogue"
