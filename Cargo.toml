@@ -2,6 +2,8 @@
 name = "rogue"
 version = "0.0.1"
 authors = ["Piotr Zolnierek <pzolnierek@gmail.com>"]
+description = "algorithms for fov, los, etc for building a roguelike"
+license ="MIT"
 
 [lib]
 name = "rogue"
